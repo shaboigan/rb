@@ -2,7 +2,7 @@
 #################################################################################
 # Title:         Reddbox: Dependencies Installer                                #
 # Author(s):     L3uddz, Desimaniac, EnorMOZ, salty                             #
-# URL:           https://github.com/shaboigan/rb                                 #
+# URL:           https://github.com/shaboigan/rb                                #
 # Description:   Installs dependencies needed for Reddbox.                      #
 # --                                                                            #
 #################################################################################
